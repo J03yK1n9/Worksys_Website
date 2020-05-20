@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Comfortaa:wght@700&family=DM+Mono:wght@400;500&display=swap");
+// font-family: 'Comfortaa', cursive; for headings(Bold 700 weight)
+// font-family: 'DM Mono', monospace; for titles(Medium 500 weight), sub-titles(Regular 400 weight)
+// font-family: 'Baloo 2', cursive; for paragraphs(Regular 400 weight)
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+
+
+
+
+
+
+// @include media-breakpoint-up(xs) { ... }
+// @include media-breakpoint-up(sm) { ... }
+// @include media-breakpoint-up(md) { ... }
+// @include media-breakpoint-up(lg) { ... }
+// @include media-breakpoint-up(xl) { ... }
+
+// // Example usage:
+// @include media-breakpoint-up(sm) {
+//   .some-class {
+//     display: block;
+//   }
+// }
